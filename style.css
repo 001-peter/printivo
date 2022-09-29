@@ -1,0 +1,42 @@
+.top-nav{
+    background-color: rgb(205, 218, 205);
+}
+img{
+    height: 20px;
+    width: 20px;
+}
+.but{
+    height: 50px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+
+}
+h5{
+    font-size: 9pt;
+}
+.hero{
+    background-color: rgb(241, 231, 221);
+}
+.logo{
+    height: 30px;
+    width: 160px;
+}
+.sign{
+    text-align: center;
+}
+.menu{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.quality{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.ship{
+    color: gray;
+    font-size: 20pt;
+}
+
+h4{
+    font-size: 18pt;
+}
